@@ -27,8 +27,8 @@
 <br></br>
 <h2> Study </h2>
 
-- <a href="https://www.naver.com/">Programmers</a>
+- <a href="https://gregarious-chord-763.notion.site/Programmers-Level-1-2-bb82e293221c4b8da08f6dd6e067d236?pvs=4">Programmers</a>
 
-- <a href="https://www.naver.com/">Baekjoon Coding</a>
+- <a href="https://github.com/jongwone/BaekjoonCoding">Baekjoon Coding</a>
 
 
