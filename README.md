@@ -1,5 +1,5 @@
 
-<h2> Hello, Frontend! </h2>
+<h2> Hello, Application! </h2>
 코딩을 녹이는 공간!
 <br></br>
 
