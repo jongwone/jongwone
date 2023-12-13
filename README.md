@@ -1,6 +1,6 @@
 
-<h2> Hello, Application! </h2>
-코딩을 녹이는 공간!
+<h2> Hello, Developer! </h2>
+여러 개발 분야에 도전하는 주니어 개발자입니다.
 <br></br>
 
 <h2> SKILLS </h2>
@@ -23,12 +23,22 @@
 <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
 <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
 </div>
+<br></br>
+
+<h2> Projects </h2>
+
+- <h4>코로나 세대를 위한 GPS 기반의 모임 어플, <a href="https://github.com/jongwone/design_project">사람끼리</a><br/><p> 2023.03 - 2023.12</p></h4>
 
 <br></br>
+
 <h2> Study </h2>
 
 - <a href="https://gregarious-chord-763.notion.site/Programmers-Level-1-2-bb82e293221c4b8da08f6dd6e067d236?pvs=4">Programmers</a>
 
 - <a href="https://github.com/jongwone/BaekjoonCoding">Baekjoon Coding</a>
+
+
+
+
 
 
