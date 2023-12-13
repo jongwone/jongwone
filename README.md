@@ -1,6 +1,8 @@
 
 <h2> Hello, Developer! </h2>
 여러 개발 분야에 도전하는 주니어 개발자입니다.
+</br>
+<a href="https://jongwone.github.io/">[포트폴리오]</a>
 <br></br>
 
 <h2> SKILLS </h2>
